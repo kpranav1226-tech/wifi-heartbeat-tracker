@@ -1,0 +1,9 @@
+{
+  "sample_rate_hz": 100.0,
+  "window_seconds": 30.0,
+  "heart_band_hz": [0.7, 2.2],
+  "min_quality": 0.5,
+  "max_breath_harmonic": 6,
+  "max_gap_s": 0.5,
+  "db_path": "data/heartbeat.db"
+}
